@@ -1,1 +1,1 @@
-# youtube-scripts
+Scripts for YouTube videos about Azure Migrate
