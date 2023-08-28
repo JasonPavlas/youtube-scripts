@@ -2,6 +2,7 @@ Hey guys, Jason here with Jacksonville IT Pros.
 
 I wanted to take a second and cover Azure Migrate at a high level. I want to cover the what, why, and how of Azure Migrate. Then discuss some next steps for those thinking about making the leap into the cloud. So without further a due, lets get into it. 
 
+
 # THE WHAT
 Let's break this down into two parts - the tool and the stuff.
  ## The stuff
@@ -11,6 +12,7 @@ Let's break this down into two parts - the tool and the stuff.
 
  ## The tool 
   This leads us to the tool, Azure Migrate. This is a free product you can and should use to rehost your VMs and data onto Azure's infrastructure. This is often referred to as a lift and shift, because the tool essentially copy/pastes your stuff, bit by bit, from your computers to Azures. It’s actually pretty cool!
+
 
 # THIS LEADS TO THE WHY
  Why use Azure Migrate and Why move to the cloud
@@ -33,10 +35,11 @@ Let's break this down into two parts - the tool and the stuff.
 # HOW
  Simply put, With the [cloud adoption framework](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/overview) and intentionality. 
  
- To borrow a line from Simon Sink, you should start with why. The [SMART](https://learn.microsoft.com/en-us/assessments/Strategic-Migration-Assessment/) assessment sounds corny, I konw, but actually is a great way to get your executives, IT, and stakeholders on the same page and speaking the same language. 
+ To borrow a line from Simon Sink, you should start with why. And the [SMART](https://learn.microsoft.com/en-us/assessments/Strategic-Migration-Assessment/) assessment, although it sounds corny, actually offers a lot of value. This short multiple choice assessment is a great way to get your executives, IT, and stakeholders on the same page and speaking the same language. 
  
- This type of inentionality will pay dividens on the backend because you'll have the benifit of learning from the mistakes of others before you. 
+ This type of inentionality will pay dividens on the backend because you'll have the benifit of learning from the mistakes of thoes who came before you. 
  
+
 # So What Next
  Microsoft vets and recomends partners that can help you along cloud adoption journey, like [Jacksonville IT Pros](https://jacksonvilleitpros.com/) for example. 
 
